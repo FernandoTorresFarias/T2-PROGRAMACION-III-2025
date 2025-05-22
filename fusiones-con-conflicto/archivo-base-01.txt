@@ -1,5 +1,9 @@
 
 Ahora modifico todo desde master para hacer un verdadero conflicto
+
 Agrego mas y mas texto por toda esta linea para hacer ahora si un gran conflicto
+
+Me pongo a escribir mas para realizar otro conflicto
+
 
 
