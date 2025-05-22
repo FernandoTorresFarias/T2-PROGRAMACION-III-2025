@@ -1,5 +1,5 @@
 
 Ahora modifico todo desde master para hacer un verdadero conflicto
-Agrego mas texto por aqui para generar mas conflicto de ser posible!
+Me pongo a escribir mas para realizar otro conflicto
 
 
